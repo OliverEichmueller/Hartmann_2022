@@ -8,3 +8,5 @@ The raw data, as well as processed Seurat objects are deposited GEO under the Bi
 
 
 For questions please write an issue or contact me via oliver.eichmueller@imba.oeaw.ac.at or the corresponding author.
+
+[![DOI](https://zenodo.org/badge/540832699.svg)](https://zenodo.org/badge/latestdoi/540832699)
